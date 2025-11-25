@@ -8,3 +8,9 @@
 Li-FP (A123): https://drive.google.com/file/d/1bFwm2XspgnHZxBhGqJB611b4i9GL4t25/view?usp=drive_link
 
 LI-NMC (LG): https://drive.google.com/file/d/1ByF9jywRVY-icnlBa-zXdE44qjC2gKyM/view?usp=drive_link
+
+Li-PO (Turnigy Graphene):
+
+Li-Ion (Samsung): 
+
+Li-NCM-NCA (SB LiMotive):
