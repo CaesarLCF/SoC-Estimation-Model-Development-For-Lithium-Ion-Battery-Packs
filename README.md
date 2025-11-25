@@ -5,9 +5,10 @@ This project aims to develop a state estimation model for LIB and LiBat systems 
    • Parameters: Terminal Voltage, Open-Circuit Voltage, Load Current, Cell Temperature, and SoC.
    • Battery Types: Li-FP, Li-NMC, Li-NCA, Li-PO, and Li-Ion (Graphite).
 
-Developed and Fine-Tuned the Estimation Methods and Models:
-• Model-Based Methods: EKF and UKF.
-• Data-Driven Models: BPNN, CNN, LSTM, and GRU.
-Evaluated and Benchmarked to Identify the Most Effective SoC Estimation Model:
-• Performance Metrics: MAE, RMSE, and R².
-• Development Factors: Training Time and Number of Parameters/Hyperparameters.
+2) Developed and Fine-Tuned the Estimation Methods and Models:
+   • Model-Based Methods: EKF and UKF.
+   • Data-Driven Models: BPNN, CNN, LSTM, and GRU.
+
+3) Evaluated and Benchmarked to Identify the Most Effective SoC Estimation Model:
+   • Performance Metrics: MAE, RMSE, and R².
+   • Development Factors: Training Time and Number of Parameters/Hyperparameters.
