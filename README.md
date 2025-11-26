@@ -12,6 +12,6 @@
 
 3) Li-PO (Turnigy Graphene): https://drive.google.com/file/d/1BE_8xuFxCHwbP18pTP5369PNXEHvMpHd/view?usp=sharing
 
-4) Li-Ion (Samsung): 
+4) Li-Ion (Samsung): https://drive.google.com/file/d/1f3V9BbzPpBYM7rrYOd48zW-sjLtVzTqj/view?usp=sharing
 
-5) Li-NCM-NCA (SB LiMotive):
+5) Li-NCM-NCA (SB LiMotive): https://drive.google.com/file/d/1VTxeTXvBItdrGtiuHZFEEQJ_LK1WEiq0/view?usp=drive_link
