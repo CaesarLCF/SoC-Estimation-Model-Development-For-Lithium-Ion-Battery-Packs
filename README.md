@@ -5,12 +5,13 @@
 
 3) The research will provide a detailed comparison of these SoC estimation methods based on the performance metrics of coefficient of determination (R²), mean absolute error (MAE), and root mean square error (RMSE) and development factors of developing time and number of parameters/hyperparameters to determine the necessity for implementing data-driven models and the best-performing data-driven model for lithium-ion battery pack systems in the AMR sector. 
 
-Li-FP (A123): https://drive.google.com/file/d/1bFwm2XspgnHZxBhGqJB611b4i9GL4t25/view?usp=drive_link
+# Pre-Processed Internal Parameter Datasets:
+1) Li-FP (A123): https://drive.google.com/file/d/1sGcC1O47gPme6iKt8WdfF4Iu0F_xbCK5/view?usp=sharing
 
-LI-NMC (LG): https://drive.google.com/file/d/1ByF9jywRVY-icnlBa-zXdE44qjC2gKyM/view?usp=drive_link
+2) LI-NMC (LG): https://drive.google.com/file/d/19sk92SagF0IP6pBl42qDQPNfWPF0FGtj/view?usp=sharing
 
-Li-PO (Turnigy Graphene):
+3) Li-PO (Turnigy Graphene): https://drive.google.com/file/d/1BE_8xuFxCHwbP18pTP5369PNXEHvMpHd/view?usp=sharing
 
-Li-Ion (Samsung): 
+4) Li-Ion (Samsung): 
 
-Li-NCM-NCA (SB LiMotive):
+5) Li-NCM-NCA (SB LiMotive):
