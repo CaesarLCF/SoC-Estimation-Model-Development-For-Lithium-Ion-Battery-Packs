@@ -8,12 +8,12 @@ This project aims to develop a State of Charge (SoC) estimation model for lithiu
 3) Develop and optimize SoC estimation models by fine-tuning the parameters/hyperparameters to achieve an coefficient of determination (R2) greater than 0.8, a mean absolute error (MAE) less than 10, and a root mean square error (RMSE) below 15. Then, the accuracy of the optimised SoC estimation models will be evaluated using performance metrics of as R², MAE, and RMSE and development factors of developing time and number of parameters/hyperparameters to identify the necessity for implementing data-driven models and the best-performing data-driven model for lithium-ion battery pack systems in the AMR sector. 
 
 # Pre-Processed Internal Parameter Datasets:
-1) Li-FP (A123): https://drive.google.com/file/d/1sGcC1O47gPme6iKt8WdfF4Iu0F_xbCK5/view?usp=sharing
+1) Li-FP: https://drive.google.com/file/d/1sGcC1O47gPme6iKt8WdfF4Iu0F_xbCK5/view?usp=sharing
 
-2) LI-NMC (LG): https://drive.google.com/file/d/19sk92SagF0IP6pBl42qDQPNfWPF0FGtj/view?usp=sharing
+2) LI-NMC: https://drive.google.com/file/d/19sk92SagF0IP6pBl42qDQPNfWPF0FGtj/view?usp=sharing
 
-3) Li-PO (Turnigy Graphene): https://drive.google.com/file/d/1BE_8xuFxCHwbP18pTP5369PNXEHvMpHd/view?usp=sharing
+3) Li-PO: https://drive.google.com/file/d/1BE_8xuFxCHwbP18pTP5369PNXEHvMpHd/view?usp=sharing
 
-4) Li-Ion (Samsung): https://drive.google.com/file/d/1f3V9BbzPpBYM7rrYOd48zW-sjLtVzTqj/view?usp=sharing
+4) Li-Ion: https://drive.google.com/file/d/1f3V9BbzPpBYM7rrYOd48zW-sjLtVzTqj/view?usp=sharing
 
-5) Li-NCM-NCA (SB LiMotive): https://drive.google.com/file/d/1VTxeTXvBItdrGtiuHZFEEQJ_LK1WEiq0/view?usp=drive_link
+5) Li-NCM-NCA: https://drive.google.com/file/d/1VTxeTXvBItdrGtiuHZFEEQJ_LK1WEiq0/view?usp=drive_link
